@@ -1,0 +1,1 @@
+# Transcribing-EDU-Lectures-with-Azure-AI-Speech-Azure-OpenAI
